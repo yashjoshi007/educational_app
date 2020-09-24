@@ -23,7 +23,7 @@
 
 
         <LinearLayout
-            android:background="@drawable/bg1"
+            android:background="@drawable/sc1"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -51,12 +51,12 @@
                    android:layout_height="wrap_content"
                    android:text="Annie Uthra Mam"
                    android:textSize="20dp"
-                   android:textColor="#ffff"/>
+                   android:textColor="#000"/>
                <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
                    android:layout_marginTop="50dp"
-                   android:text="SLOT       08:00  - 09:00"
+                   android:text="08:00  - 09:00"
                    android:textSize="20dp"
                    android:textColor="#ffffff"></TextView>
 
@@ -80,7 +80,7 @@
 
 
         <LinearLayout
-            android:background="@drawable/bg2"
+            android:background="@drawable/maths1"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -106,14 +106,15 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
                         android:text="Arun Goyal Sir"
                         android:textSize="20dp"
-                        android:textColor="#ffff"/>
+                        android:textColor="#000"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="50dp"
-                        android:text="SLOT       09:00  - 10:00"
+                        android:text="09:00  - 10:00"
                         android:textSize="20dp"
                         android:textColor="#ffffff"></TextView>
 
@@ -137,7 +138,7 @@
 
 
         <LinearLayout
-            android:background="@drawable/bg3"
+            android:background="@drawable/eng1"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -165,12 +166,12 @@
                         android:layout_height="wrap_content"
                         android:text="Surangini Shah Mam"
                         android:textSize="20dp"
-                        android:textColor="#ffff"/>
+                        android:textColor="#000"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="50dp"
-                        android:text="SLOT       10:00  - 11:00"
+                        android:text="10:00  - 11:00"
                         android:textSize="20dp"
                         android:textColor="#ffffff"></TextView>
 
@@ -192,7 +193,7 @@
 
 
         <LinearLayout
-            android:background="@drawable/bg4"
+            android:background="@drawable/hindi1"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -220,12 +221,12 @@
                         android:layout_height="wrap_content"
                         android:text="Manju Mam"
                         android:textSize="20dp"
-                        android:textColor="#ffff"/>
+                        android:textColor="#000"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="50dp"
-                        android:text="SLOT       11:00  - 12:00"
+                        android:text="11:00  - 12:00"
                         android:textSize="20dp"
                         android:textColor="#ffffff"></TextView>
 
@@ -250,7 +251,7 @@
 
 
         <LinearLayout
-            android:background="@drawable/bg5"
+            android:background="@drawable/ss1"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -270,20 +271,21 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="SOCIAL SCIENCE"
+                        android:layout_marginLeft="0dp"
+                        android:text="SOCIAL "
                         android:textSize="34dp"
                         android:textColor="#000000"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Samiksha Tharur Mam"
+                        android:text="Samiksha Mam"
                         android:textSize="20dp"
-                        android:textColor="#ffff"/>
+                        android:textColor="#000"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="50dp"
-                        android:text="SLOT       01:00  - 02:00"
+                        android:text="01:00  - 02:00"
                         android:textSize="20dp"
                         android:textColor="#ffff"></TextView>
 
@@ -307,7 +309,7 @@
 
 
         <LinearLayout
-            android:background="@drawable/bg6"
+            android:background="@drawable/comp1"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -335,12 +337,12 @@
                         android:layout_height="wrap_content"
                         android:text="Sunil Patel Sir"
                         android:textSize="20dp"
-                        android:textColor="#ffff"/>
+                        android:textColor="#000"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="50dp"
-                        android:text="SLOT       02:00  - 03:00"
+                        android:text="02:00  - 03:00"
                         android:textSize="20dp"
                         android:textColor="#ffffff"></TextView>
 
