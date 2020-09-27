@@ -69,7 +69,7 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
@@ -117,12 +117,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg1"
+            android:background="@drawable/bg3"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -166,12 +166,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg2"
+            android:background="@drawable/bg4"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -215,12 +215,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg1"
+            android:background="@drawable/bg5"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -264,12 +264,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg2"
+            android:background="@drawable/bg6"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -313,7 +313,7 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
@@ -362,7 +362,7 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
@@ -411,12 +411,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg1"
+            android:background="@drawable/bg3"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -459,12 +459,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg2"
+            android:background="@drawable/bg4"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -507,12 +507,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg1"
+            android:background="@drawable/bg5"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -556,12 +556,12 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
         <LinearLayout
-            android:background="@drawable/bg2"
+            android:background="@drawable/bg6"
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
@@ -605,7 +605,7 @@
         android:layout_height="60dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp">
 
 
