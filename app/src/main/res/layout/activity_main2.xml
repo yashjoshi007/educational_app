@@ -212,7 +212,7 @@
     </androidx.cardview.widget.CardView>
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="70dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
         android:layout_marginTop="20dp"
@@ -289,7 +289,7 @@
                     android:layout_marginTop="-10dp"
                     android:layout_marginBottom="3dp"
                     android:layout_marginLeft="30dp"
-                    android:text="15 Aug -  Ind. dat"
+                    android:text="15 Aug -  Ind. day"
                     android:textSize="30dp"
                     android:textColor="#000000"/>
 
@@ -359,7 +359,7 @@
     </androidx.cardview.widget.CardView>
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="70dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
         android:layout_marginTop="20dp"
@@ -370,7 +370,7 @@
             android:background="@drawable/bg2"
             android:layout_width="match_parent"
             android:orientation="vertical"
-            android:layout_height="match_parent">
+            android:layout_height="100dp">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -456,7 +456,7 @@
     </androidx.cardview.widget.CardView>
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="70dp"
         app:cardCornerRadius="8dp"
         android:layout_marginRight="20dp"
         android:layout_marginTop="20dp"
